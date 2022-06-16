@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Anton
 
-### I’m a Junior iOS Dev.
-
+### I’m a Junior iOS Developer
+- ✌️  I'm starting my way in development
 - 🔭 I am currently working on creating my first apps
 - 🌱 I try to write code every day to fill my hand
 - 👯 I am actively looking for my first company
