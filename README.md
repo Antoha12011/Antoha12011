@@ -6,5 +6,3 @@
 - 🌱 I try to write code every day
 - 👯 I am actively looking for my first company
 - 📫 How to contact me:  toni.pavlov.85@bk.ru
-
-
