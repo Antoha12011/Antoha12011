@@ -1,4 +1,3 @@
-![IMG_0398](https://user-images.githubusercontent.com/101676789/203074392-b594917b-9136-4119-b9cf-1b3adaceb3c9.JPG)
 ### Hi there 👋, I'm Anton
  
 ### I’m a Junior iOS Developer
