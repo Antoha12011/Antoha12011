@@ -1,5 +1,3 @@
-![JF332DpCCMA](https://user-images.githubusercontent.com/101676789/203072711-7cd0254c-98ba-4c32-b4ad-2a4a3123db33.jpeg)
-
 ### Hi there 👋, I'm Anton
  
 ### I’m a Junior iOS Developer
