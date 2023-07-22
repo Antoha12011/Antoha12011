@@ -12,8 +12,6 @@
 
 ### Badges
 
-<a target="_blank" href="https://www.codewars.com/users/Pavlov_Anton"><img src="https://www.codewars.com/users/Pavlov_Anton/badges/large"></a>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Antoha12011"><img src="https://github-readme-stats.vercel.app/api?username=Antoha12011&show_icons=true&hide=issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Antoha12011's GitHub stats" /></a>
